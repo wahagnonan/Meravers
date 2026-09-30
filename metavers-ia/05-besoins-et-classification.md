@@ -47,7 +47,7 @@ Cette grille permet de trier les résultats de la recherche documentaire en troi
 
 - **Éducation scolaire immersive** : 150+ campus universitaires jumeaux (VictoryXR), metaversities européennes (Leeds, Pays basque) — engagement positif, mais preuves d'apprentissage à long terme hétérogènes (limite admise par les rapports eux-mêmes).
 - **Retail virtuel** : 88 % des joueurs Roblox « essaient » le digital avant d'acheter le physique (Roblox/Ipsos 2025) — signal fort, volume encore petit.
-- **Lunettes IA légères** : +211 % en 2025, +167 % au T1 2026 (IDC) — le pari est que l'IA (traduction, sous-titres, assistant visuel) crée un besoin quotidien du porté ; trop tôt pour conclure.
+- **Lunettes IA légères (smart glasses sans écran)** : +211 % en 2025, **+167 % au T1 2026** (≈2,25 M d'unités ; lunettes avec écran : +86 %) — IDC, *Smart Glasses Surge*, 15/06/2026. Le pari est que l'IA (traduction, sous-titres, assistant visuel) crée un besoin quotidien du porté ; trop tôt pour conclure.
 - **Agents IA incarnés** : l'IA avec un corps, une voix et une présence — convergence la plus prometteuse, pas encore industrialisée.
 
 ---
@@ -60,7 +60,7 @@ Résultats financiers publiés, relevés de marché indépendants :
 
 - Roblox : 4,9 Md$ de revenus 2025, 144 M DAU (lettre aux actionnaires T4 2025, 10-K SEC)
 - Pertes Reality Labs : ~80-90 Md$ cumulés (rapports trimestriels Meta, compilés CNBC/Statista)
-- Casques VR/MR : −42,8 % en 2025 ; lunettes connectées +167 % T1 2026 (IDC)
+- Casques VR/MR : −42,8 % en 2025 ; smart glasses +167 % au T1 2026 (IDC, 15/06/2026)
 - 1,77 % des utilisateurs Steam équipés d'un casque (Steam Hardware Survey, janv. 2026)
 
 ### Tier 2 — Effets mesurés (fiabilité forte)
@@ -77,7 +77,7 @@ Résultats financiers publiés, relevés de marché indépendants :
 Prévisions de cabinets, jamais des données constatées. Leur dispersion est l'information principale :
 
 - Métavers 2030 : 500 Md$ (Statista) / 936 Md$ (Grand View) / 1 303 Md$ (MarketsandMarkets) / 5 000 Md$ (McKinsey) — **un rapport de 1 à 10 selon le périmètre**
-- IA : +7 % de PIB mondial en 10 ans (Goldman Sachs) ; +2 600-4 400 Md$/an (McKinsey) ; +1,5 % de PIB vers 2035 (Wharton)
+- IA : +7 % de PIB mondial en 10 ans (Goldman Sachs) ; +2 600-4 400 Md$/an (McKinsey) ; +1,5 % de PIB (É.-U.) de niveau en 2035, trajectoire de référence sans IA (Penn Wharton Budget Model, 08/09/2025)
 - Emploi 2030 : −92 M / +170 M, net +78 M (WEF) — enquête d'opinion d'employeurs, pas une prévision économétrique
 
 ### Tier 4 — Sources secondaires (précaution)
@@ -96,3 +96,11 @@ Agrégateurs, presse relais, données anciennes ou non vérifiables — utilisé
 2. **Les technologies qui créaient un besoin artificiel se retirent bruyamment** : métavers social généraliste, foncier virtuel, NFT, réunions immersives.
 3. **La frontière est économique, pas technologique** : le casque VR fonctionne très bien ; c'est la proposition de valeur qui décide de l'adoption.
 4. **Toute citation de chiffre doit préciser son tier** : donnée constatée, effet mesuré, projection ou source secondaire. Les rapports 01 à 04 de ce dossier appliquent systématiquement cette règle.
+
+---
+
+## Sources de la note
+
+- Penn Wharton Budget Model, A. Arnon, *The Projected Impact of Generative AI on Future Productivity Growth*, 08/09/2025 (+1,5 % de PIB en 2035) — https://budgetmodel.wharton.upenn.edu/issues/2025/9/8/projected-impact-of-generative-ai-on-future-productivity-growth
+- IDC, *Smart Glasses Surge: The XR Market Is Rewriting Its Own Rules*, 15/06/2026 (+167 % de smart glasses au T1 2026) — https://www.idc.com/resource-center/blog/smart-glasses-surge-the-xr-market-is-rewriting-its-own-rules/
+- Meta, *Q4 and Full Year 2025 Results*, 28/01/2026 (Reality Labs : −6,02 Md$ au T4 2025, −19,19 Md$ en 2025) — https://investor.atmeta.com/

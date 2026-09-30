@@ -18,7 +18,7 @@ Les estimations de marché divergent fortement selon les cabinets et les périm�
 | Statista Market Insights | ~500 Md$ | 2030 (TCAC ~35 %) | Projection (périmètre restreint) |
 | McKinsey (2023) | +2 600 à 4 400 Md$/an | annuel | IA générative, 63 cas d'usage |
 | Goldman Sachs (2023) | +7 % de PIB mondial (~7 000 Md$) | 10 ans | IA générative |
-| PwC | 15 700 Md$ | 2030 | Ensemble de l'IA |
+| PwC (2017, *Sizing the prize*) | +15 700 Md$ de PIB mondial additionnel en 2030 (+14 %) | 2030 | Projection (ensemble de l'IA, Tier 3) |
 
 **Lecture critique** : l'écart entre 500 Md$ et 5 000 Md$ pour le métavers traduit des définitions différentes (revenus des plateformes vs valeur économique totale incluant e-commerce, formation, publicité). Les faits vérifiables — résultats publiés de Roblox (4,9 Md$ de revenus 2025), déploiements industriels documentés (Siemens, BMW, Wistron) — sont réels mais très inférieurs aux projections.
 
@@ -33,7 +33,7 @@ Contrairement aux projections de marché, les études d'impact existantes fourni
 
 ### 1.3 Investissements et pertes : le paradoxe Meta
 
-- **Meta Reality Labs** : pertes d'exploitation cumulées d'environ **80 à 90 Md$ depuis fin 2020** (19,2 Md$ perdus sur le seul exercice 2025, pour 2,2 Md$ de revenus) — révélations financières trimestrielles, compilées par CNBC (avril 2026), Statista (janvier 2026) et GamesIndustry.biz.
+- **Meta Reality Labs** : pertes d'exploitation cumulées d'environ **80 à 90 Md$ depuis fin 2020** (source primaire : Meta, *Q4 and Full Year 2025 Results*, 28/01/2026 — **6,02 Md$ de perte au T4 2025**, **19,2 Md$ sur l'exercice 2025**, pour 2,2 Md$ de revenus ; cumul ≈79-80 Md$ fin 2025, ≈84 Md$ après T1 2026), compilées par CNBC (28/01/2026 pour le T4 2025 ; avr. 2026 pour le T1 2026), Statista (janvier 2026) et GamesIndustry.biz.
 - En janvier 2026, Meta a supprimé plus de **1 000 postes** dans Reality Labs et annoncé l'arrêt d'Horizon Worlds sur Quest (juin 2026).
 - **Réallocation vers l'IA** : Meta a annoncé un capex IA de **115 à 135 Md$ pour 2026** — supérieur à ses pertes métavers cumulées. Microsoft, Google et Amazon investissent des centaines de milliards annuels en centres de données et puces.
 - **Contenus et droits d'auteur** : contentieux massifs (éditeurs contre Meta, mai 2026 ; transaction *Bartz c. Anthropic* de **1,5 Md$**) — le coût juridique de l'IA générative devient une ligne budgétaire majeure.
@@ -64,14 +64,14 @@ Le **WEF, Future of Jobs Report 2025** (enquête auprès de 1 000+ employeurs re
 - **Harcèlement et protection des mineurs** : 19 incidents de harcèlement de mineurs recensés sur 100 sessions testées dans Horizon Worlds (CCDH, 2025) ; 44 % d'adolescents américains exposés à des propos haineux en VR (Florida Atlantic University, *New Media & Society*, 2024) ; la CTO de Meta qualifie le harcèlement de « menace existentielle ».
 - **Santé physique et mentale** : cybersickness touchant **40 à 70 % des utilisateurs après 15 minutes** (Univ. of Minnesota / AIP, 2024) ; plus de la moitié des casques Quest délaissés après six mois (WSJ) ; risques d'addiction et de confusion réalité/virtuel chez les plus jeunes.
 - **Fracture numérique** : **2,2 milliards de personnes restent non connectées** (UIT, *Facts and Figures 2025*) — les mondes virtuels intelligents risquent d'élargir l'écart entre connectés équipés et exclus.
-- **Désinformation synthétique** : deepfakes = **6,5 % des tentatives de fraude mondiales en 2025 contre 0,1 % en 2022** (+2 137 %, Sumsub) ; première catégorie FBI de fraude à l'IA : **893 M$ de pertes** (2025) ; arnaque Arup : 25 M$ (janvier 2024) ; Deloitte estime 40 Md$ de pertes aux États-Unis d'ici 2027.
+- **Désinformation synthétique** : deepfakes = **6,5 % des tentatives de fraude en 2025 contre 0,1 % en 2022** (+2 137 %, Signicat, 2025) ; fraude assistée par IA : **893 M$ de pertes et 22 364 plaintes** (FBI/IC3, *Internet Crime Report 2025*) ; arnaque Arup : 25 M$ (Hong Kong, janv.-févr. 2024, confirmée Deloitte/WEF) ; Deloitte estime 40 Md$ de pertes aux États-Unis d'ici 2027.
 - **Vie privée biométrique** : les casques collectent mouvements oculaires, expressions, gestuelle — données permettant l'identification quasi unique et l'inférence d'états psychologiques (recherche académique sur les *side channels* VR).
 
 ---
 
 ## 3. Impacts technologiques
 
-- **Basculement du matériel** : recul des casques VR/MR (−42,8 % en 2025, IDC) contre explosion des **lunettes connectées assistées par IA** (+211 % en 2025 ; +167 % au T1 2026). Le futur de l'interface immersive est léger, audio-visuel et piloté par IA (Meta Ray-Ban Display + Neural Band, Galaxy XR avec Gemini intégré, projets Apple).
+- **Basculement du matériel** : recul des casques VR/MR (−42,8 % en 2025, IDC) contre explosion des **smart glasses (lunettes intelligentes sans écran)** : +211 % en 2025, **+167 % au T1 2026** (≈2,25 M d'unités ; lunettes avec écran : +86 %) — IDC, *Smart Glasses Surge*, 15/06/2026. Le futur de l'interface immersive est léger, audio-visuel et piloté par IA (Meta Ray-Ban Display + Neural Band, Galaxy XR avec Gemini intégré, projets Apple).
 - **Génération de mondes par IA** : Meta WorldGen (texte → monde 3D navigable en ~5 min, nov. 2025), Roblox Cube 3D (open source, 1,8 Md de paramètres ; latence réduite de 31 s à 4 s), NVIDIA Cosmos (modèles fondamentaux du monde physique pour l'IA robotique).
 - **Standards ouverts** : OpenUSD (Alliance for OpenUSD / Linux Foundation, 2023), OpenXR, WebXR — conditions de l'interopérabilité entre plateformes.
 - **Infrastructure de calcul** : la convergence impose le temps réel mondial (rendu 3D, IA conversationnelle, synchronisation) et restructure la pile technologique : edge computing, 5G/6G, moteurs 3D réutilisés hors du jeu (Unreal, Unity, Omniverse).
@@ -126,9 +126,9 @@ Le **WEF, Future of Jobs Report 2025** (enquête auprès de 1 000+ employeurs re
 13. Statista, *Meta's Reality Labs Lose $19B as VR Ambitions Falter*, janvier 2026 — https://www.statista.com/chart/29236/operating-loss-of-metas-reality-labs-division/
 14. GamesIndustry.biz, *Meta's Reality Labs division generated $2.2bn, lost $19.2bn in FY25*, janvier 2026 — https://www.gamesindustry.biz/metas-reality-labs-division-generated-22bn-lost-192bn-in-fy25
 15. Fortune, *Meta wants to spend more even after it lost $80 billion on the metaverse*, mai 2026 — https://fortune.com/2026/05/01/meta-mark-zuckerberg-tech-stocks-reality-labs-metaverse/
-16. Sumsub (via StationX), *Deepfake Statistics 2026* : 6,5 % de la fraude mondiale, +2 137 % depuis 2022 — https://app.stationx.net/articles/deepfake-statistics
-17. FBI, *Internet Crime Report 2025* (fraude IA : 893,3 M$), via Digital Applied, 2026 — https://www.digitalapplied.com/blog/deepfake-statistics-2026-fraud-detection-data
-18. Jones Walker AI Law Blog, *Deepfakes-as-a-Service Meets State Laws* (Arup 25 M$ ; Deloitte 40 Md$ d'ici 2027), janvier 2026 — https://www.joneswalker.com/en/insights/blogs/ai-law-blog/deepfakes-as-a-service-meets-state-laws-governing-synthetic-media-in-a-fragmented.html
+16. Signicat, *The Battle Against AI-Driven Identity Fraud*, 2025 (deepfakes : 0,1 % → 6,5 % des tentatives, +2 137 % en 3 ans) — https://www.signicat.com/press-releases/fraud-attempts-with-deepfakes-have-increased-by-2137-over-the-last-three-year
+17. FBI / IC3, *2025 Internet Crime Report*, 2026 (fraude assistée par IA : 22 364 plaintes, 893 M$) — https://www.fbi.gov/file-repository/2025_ic3report.pdf
+18. Deloitte Insights, *Deepfake banking and AI fraud risk*, 29/05/2024 (pertes US 40 Md$ d'ici 2027, vs 12,3 Md$ en 2023 ; arnaque Arup 25 M$ à Hong Kong, janv. 2024) — https://www.deloitte.com/us/en/insights/industry/financial-services/deepfake-banking-fraud-risk-on-the-rise.html
 19. Union européenne, *Règlement (UE) 2024/1689 (AI Act)* — https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
 20. Romero Moreno, F., *Generative AI and deepfakes: a human rights approach*, *International Review of Law, Computers & Technology*, 2024 — https://www.tandfonline.com/doi/full/10.1080/13600869.2024.2324540
 21. UIT, *Facts and Figures 2025* (2,2 Md de personnes non connectées) — https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx
@@ -141,3 +141,6 @@ Le **WEF, Future of Jobs Report 2025** (enquête auprès de 1 000+ employeurs re
 28. NVIDIA, *Robotic Factories Supercharge Industrial Digitalization*, 2025 — https://nvidianews.nvidia.com/news/robotic-factories-industrial-digitalization-electronic-makers-ai-omniverse
 29. Osso VR, *Clinical Compendium*, 2025 — https://essentialhospitals.org/wp-content/uploads/2025/10/OSSOVR-25_Clinical-Compendium.pdf
 30. Roblox Corporation / Ipsos, *Digital Fashion Insights Q3'25*, via GameDev Reports, 2026 — https://gamedevreports.substack.com/p/roblox-some-q325-metrics-and-digital
+31. PwC, *Sizing the prize: What's the real value of AI for your business and how can you capitalise?*, 2017 (+15 700 Md$ de PIB mondial en 2030) — https://www.pwc.com/gx/en/issues/analytics/assets/pwc-ai-analysis-sizing-the-prize-report.pdf
+32. Meta, *Q4 and Full Year 2025 Results* (Reality Labs : −6,02 Md$ au T4 2025 ; −19,19 Md$ en 2025), 28/01/2026 — https://investor.atmeta.com/
+33. IDC, *Smart Glasses Surge: The XR Market Is Rewriting Its Own Rules*, 15/06/2026 (+167 % de smart glasses au T1 2026) — https://www.idc.com/resource-center/blog/smart-glasses-surge-the-xr-market-is-rewriting-its-own-rules/

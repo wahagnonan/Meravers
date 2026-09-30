@@ -11,6 +11,9 @@ Sources primaires et études à jour 2024-2026.
 | `02-secteurs.md` | Transformation de 8 secteurs d'activité + projets abandonnés |
 | `03-adoption.md` | Statistiques d'usage, démographie, freins, prévisions |
 | `04-impacts.md` | Impacts économiques, sociaux, technologiques et réglementaires |
+| `05-besoins-et-classification.md` | Besoins couverts et classification des usages (travail de l'agent vérificateur) |
+| `06-verification-des-sources.md` | Note de vérification : hiérarchie de confiance des sources (Tier 1-4) |
+| `courant.md` | Dialogue inter-agents : questions, réponses, accords et décisions |
 
 ---
 
@@ -34,18 +37,18 @@ Sources primaires et études à jour 2024-2026.
 | Immobilier / urbanisme | DAMAC + PropVR (Dubai) | Ventes de 24 M$ à >400 M$ ; plus de 500 villes dotées d'un jumeau numérique |
 | Retail | Walmart (Roblox, Zepeto) | 3,5 M d'essayages virtuels, 1,3 M d'achats de vêtements virtuels |
 
-**Signal contraire** : arrêt de Meta Horizon Worlds (2026), retrait de Microsoft Mesh (déc. 2025), arrêt de Meta Workrooms (févr. 2026), arrêt de Nike RTFKT — le « métavers social / réunion » pur est en repli net ; la valeur se concentre sur les plateformes ludiques et la simulation industrielle.
+**Signal contraire** : retrait de l'app VR de Meta Horizon Worlds annoncé en mars 2026 (revirement du 19/03 : les mondes existants restent en VR, mais le développement cesse), retrait de Microsoft Mesh (déc. 2025), arrêt de Meta Workrooms (févr. 2026), arrêt de Nike RTFKT — le « métavers social / réunion » pur est en repli net ; la valeur se concentre sur les plateformes ludiques et la simulation industrielle.
 
 ### 3. Adoption par les utilisateurs
 
-- **En croissance** : Roblox 144 M DAU (T4 2025) et 124 Md d'heures de jeu ; Fortnite ~110 M MAU ; VRChat record de 148 886 joueurs simultanés (1ᵉʳ janv. 2026).
-- **En repli** : Decentraland et The Sandbox marginalisés (retention J1 : 12 %) ; Apple n'a vendu que ~45 000 Vision Pro en 2025 (vs 390 000 en 2024) ; seulement **1,77 % des utilisateurs Steam** possèdent un casque (janv. 2026).
+- **En croissance** : Roblox 144 M DAU (T4 2025) et 124 Md d'heures de jeu — avec un pic à 151,5 M au T3 2025 puis 132 M au T1 2026, **recul séquentiel (−13 % vs pic) imputé aux vérifications d'âge et à l'interdiction russe, mais toujours +35 % en glissement annuel** (*Roblox Q1 2026 Shareholder Letter*) ; Fortnite ~110 M MAU ; VRChat record de 148 886 joueurs simultanés (1ᵉʳ janv. 2026).
+- **En repli** : Decentraland et The Sandbox marginalisés (retention J1 : 12 %) ; Apple **~45 000 Vision Pro en 2025** (estimation IDC T4 2025, quasi-total de l'année ; vs 390 000 en 2024) ; seulement **1,77 % des utilisateurs Steam** possèdent un casque (janv. 2026).
 - **Freins** (YouGov 2025) : prix (29 % des non-utilisateurs attendraient un matériel moins cher), *cybersickness* (40 à 70 % des cas après 15 minutes d'exposition), harcèlement (19 incidents de harcèlement de mineurs recensés sur 100 sessions testées dans Horizon Worlds — CCDH 2025), et effondrement de l'attention médiatique (−61 % de couverture entre 2023 et 2024 — Signal AI).
 - **Opinion** : 26 % des adultes américains ont utilisé le métavers sur 12 mois (YouGov 2025) ; Gartner publie en janvier 2025 une note intitulée *« Quick Answer: What Happened to the Metaverse? »*.
 
 ### 4. Impacts économiques, sociaux et technologiques
 
-**Économiques** — Marché du métavers projeté de 936 Md$ (Grand View Research) à 1 303 Md$ en 2030 (MarketsandMarkets) ; IA générative ~1 800 Md$ en 2032 (Bloomberg Intelligence). *Ces projections divergent fortement et ne sont pas des données constatées.* Productivité mesurée par l'IA : **+14 à 15 % de tickets résolus par heure, +30 à 35 % pour les novices** (Brynjolfsson, Li & Raymond, *QJE* 2025) ; −2 heures de courriels par semaine (NBER 2025). WEF à l'horizon 2030 : 170 M d'emplois créés, 92 M supprimés (+78 M nets).
+**Économiques** — Marché du métavers projeté de **936 Md$ (Grand View Research) à 1 303 Md$ en 2030 (MarketsandMarkets)** ; les séries de cabinets ne sont **pas compositables** (Fortune évalue déjà 2025 à 1 273 Md$ alors que Grand View évalue 2024 à 105 Md$ : écart ×12 à la base) et McKinsey (5 000 Md$, 2022) mesure une *valeur créée*, pas un marché — **afficher l'écart, jamais un chiffre unique**. IA générative ~1 800 Md$ en 2032 (Bloomberg Intelligence). *Ces projections ne sont pas des données constatées.* Productivité mesurée par l'IA : **+14 à 15 % de tickets résolus par heure, +30 à 35 % pour les novices** (Brynjolfsson, Li & Raymond, *QJE* 2025) ; −2 heures de courriels par semaine (NBER 2025). WEF à l'horizon 2030 : 170 M d'emplois créés, 92 M supprimés (+78 M nets).
 
 **Sociaux** — Bénéfices : formation démocratisée, thérapie VR validée (phobies, TSPT, autisme), 23 M d'emplois impactés par la RV/RA et 1 500 Md$ de PIB potentiel (PwC). Risques : harcèlement des jeunes (44 % d'adolescents américains exposés à des propos haineux en VR — Florida Atlantic University, 2024), addiction et confusion réalité/virtuel, fracture numérique (**2,2 milliards de personnes non connectées** — UIT 2025), désinformation par deepfakes.
 

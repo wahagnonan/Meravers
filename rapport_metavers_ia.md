@@ -129,7 +129,7 @@ Au-delà du trading algorithmique, la finance explore les agences virtuelles, la
 
 ### 4.7 Divertissement, jeu vidéo et médias
 
-Le jeu vidéo reste la porte d'entrée principale du grand public vers les mondes virtuels persistants : **Roblox** revendique plus de **70 millions d'utilisateurs actifs quotidiens** (2024-2025), Fortnite des dizaines de millions, tandis que les concerts virtuels et événements hybrides attirent des audiences mondiales. L'IA générative bouleverse la production de contenus (génération de niveaux, de voix, de musique) et nourrit le débat sur les droits d'auteur et la rémunération des créateurs.
+Le jeu vidéo reste la porte d'entrée principale du grand public vers les mondes virtuels persistants : **Roblox** a atteint **144 millions d'utilisateurs actifs quotidiens au T4 2025** (pic à 151,5 M au T3 2025, puis 132 M au T1 2026 après le déploiement des vérifications d'âge et l'interdiction russe — toujours +35 % en glissement annuel), Fortnite des dizaines de millions, tandis que les concerts virtuels et événements hybrides attirent des audiences mondiales. L'IA générative bouleverse la production de contenus (génération de niveaux, de voix, de musique) et nourrit le débat sur les droits d'auteur et la rémunération des créateurs.
 
 ### 4.8 Travail et collaboration d'équipe
 
@@ -155,11 +155,11 @@ La pandémie a normalisé le télétravail ; l'étape suivante est la **présenc
 
 L'adoption des technologies immersives progresse mais reste loin des prophéties de 2021 :
 
-- **Parc matériel** : les livraisons mondiales de casques AR/VR/MR ont atteint environ 9,6 millions d'unités au premier trimestre 2025 (+8 à 10 % sur un an selon IDC, relayé par Treeview Studio, avril 2026) ; sur l'ensemble de l'année 2025, les livraisons de casques VR/MR ont reculé d'environ 42,8 % tandis que les **lunettes connectées** ont explosé (+167 % au T1 2026 selon IDC, ~2,25 millions d'unités trimestrielles) — signe d'un basculement du marché des casques immersifs vers des formats légers. Meta conserve une position dominante (~72 % des livraisons XR en 2025 selon G2/IDC).
-- **Plateformes** : Roblox dépasse 70 millions d'utilisateurs actifs quotidiens (2024-2025), démontrant qu'un « métavers » accessible sans casque atteint une échelle de masse, en particulier chez les jeunes.
-- **Vision premium** : l'Apple Vision Pro (lancement février 2024, 3 499 $) illustre les limites du positionnement haut de gamme : environ 390 000 à 430 000 unités vendues en 2024 et moins de 100 000 en 2025 selon les estimations IDC/Counterpoint relayées par la presse — un échec commercial relatif mais un jalon technologique majeur pour le *spatial computing*.
+- **Parc matériel** : les expéditions mondiales XR (lunettes + casques) ont atteint 14,5 millions d'unités en 2025 (+41,6 % selon IDC), mais cette croissance globale masque une bifurcation : les casques VR/MR ont reculé de 42,8 % sur la même année tandis que les **smart glasses** (lunettes intelligentes sans écran) ont bondi de 211 % en 2025 puis de 167 % au T1 2026 (~2,25 millions d'unités trimestrielles ; +86 % pour les modèles avec écran — IDC, *Smart Glasses Surge*, juin 2026) — signe d'un basculement du marché des casques immersifs vers des formats légers. Meta conserve une position dominante (~72 % des livraisons XR en 2025 selon G2/IDC).
+- **Plateformes** : Roblox a atteint 144 millions d'utilisateurs actifs quotidiens au T4 2025 (132 M au T1 2026 après les vérifications d'âge et l'interdiction russe, soit toujours +35 % sur un an), démontrant qu'un « métavers » accessible sans casque atteint une échelle de masse, en particulier chez les jeunes.
+- **Vision premium** : l'Apple Vision Pro (lancement février 2024, 3 499 $) illustre les limites du positionnement haut de gamme : environ 390 000 à 430 000 unités vendues en 2024 et ~45 000 en 2025 (estimation IDC portant sur le T4 2025, quasi-total de l'année faute d'envois avant octobre ; IDC prévoit 290 000 unités en 2026) — un échec commercial relatif mais un jalon technologique majeur pour le *spatial computing*.
 - **Temps passé** : la prédiction de **Gartner** (février 2022) selon laquelle **25 % des personnes passeront au moins une heure par jour dans le métavers en 2026** pour le travail, les achats, l'éducation ou le divertissement reste à ce jour un objectif prospectif plus qu'une réalité mesurée ; les usages sociaux et ludiques (Roblox, Fortnite) en représentent la part la plus visible.
-- **Ménages** : environ 13 % des ménages américains déclarent posséder un casque VR (enquêtes 2025 relayées par SQ Magazine) — la VR reste un équipement de niche dans les foyers.
+- **Ménages** : environ 13 % des ménages américains déclarent posséder un casque VR (National Research Group, juin 2024 — chiffre repris par la presse spécialisée, rapport primaire non localisé : source de précaution) — la VR reste un équipement de niche dans les foyers.
 
 ### 5.2 Les obstacles à l'adoption grand public
 
@@ -181,12 +181,13 @@ Le contraste est saisissant avec l'IA générative : ChatGPT a atteint 100 milli
 
 | Indicateur | Donnée | Source (année) |
 |---|---|---|
-| Livraisons trimestrielles casques AR/VR (T1 2025) | ~9,6 M unités (+8-10 %) | IDC via Treeview (2026) |
-| Croissance lunettes connectées (T1 2026) | +167 % (~2,25 M unités) | IDC (2026) |
+| Expéditions XR globales 2025 (lunettes + casques) | 14,5 M unités (+41,6 %) | IDC (déc. 2025) |
+| Recul des casques VR/MR (2025) | −42,8 % | IDC (déc. 2025) |
+| Croissance smart glasses sans écran (T1 2026) | +167 % (~2,25 M unités ; avec écran : +86 %) | IDC (juin 2026) |
 | Part de marché XR de Meta (2025) | ~72 % | G2/IDC (2026) |
-| Utilisateurs actifs quotidiens Roblox | 70 M+ | Rapports Roblox (2024-2025) |
+| Utilisateurs actifs quotidiens Roblox | 144 M (T4 2025) ; 132 M (T1 2026) | Rapports Roblox (SEC) |
 | Ventes Apple Vision Pro (2024) | ~390-430 K unités | Counterpoint/IDC via presse |
-| Ménages US équipés VR | ~13 % | Enquêtes relayées par SQ Magazine (2025) |
+| Ménages US équipés VR | ~13 % | National Research Group (juin 2024, source de précaution) |
 | Objectif d'usage quotidien métavers | 25 % des personnes ≥ 1 h/jour d'ici 2026 | Gartner (2022) |
 | Perte nette d'emplois mondiale à 2030 (IA/automatisation) | −92 M emplois détruits, +170 M créés (net +78 M) | WEF, Future of Jobs 2025 |
 
@@ -247,7 +248,7 @@ Les casques immersifs collectent des données sans précédent : mouvements ocul
 
 ### 7.3 Désinformation, deepfakes et fraude synthétique
 
-L'IA générative industrialise la fabrication de faux contenus crédibles. Les données récentes sont éloquentes : la fraude par deepfake représente désormais **6,5 % des tentatives de fraude mondiales** contre 0,1 % en 2022 (+2 137 %, Sumsub) ; le FBI a enregistré une première catégorie de fraude à l'IA totalisant **893 millions de dollars de pertes** (2025, relayé par Digital Applied, 2026) ; le cabinet Arup a perdu 25 M$ en janvier 2024 dans une arnaque au faux ordre de virement par visioconférence truquée ; Deloitte estime les pertes liées à la fraude générative à **40 Md$ aux États-Unis d'ici 2027**. Dans les environnements immersifs, ces risques se combinent : arnaques aux faux proches incarnés, manipulation d'avatars, pubs trompeuses dans les mondes virtuels. La réponse réglementaire s'organise : le **règlement européen sur l'IA (AI Act, règlement UE 2024/1689)** impose des obligations de **transparence** pour les contenus générés (label deepfakes) et pour les chatbots (obligation d'annoncer qu'on parle à une IA), avec des sanctions jusqu'à 35 M€ ou 7 % du chiffre d'affaires mondial ; les obligations de transparence s'appliquent depuis août 2026.
+L'IA générative industrialise la fabrication de faux contenus crédibles. Les données récentes sont éloquentes : la fraude par deepfake représente désormais **6,5 % des tentatives de fraude mondiales** contre 0,1 % en 2022 (+2 137 %, Signicat, 2025) ; le FBI (IC3) a enregistré **22 364 plaintes** de fraude assistée par IA totalisant **893 millions de dollars de pertes** (*Internet Crime Report 2025*) ; le cabinet Arup a perdu 25 M$ début 2024 (Hong Kong, janvier-février) dans une arnaque au faux ordre de virement par visioconférence truquée ; Deloitte estime les pertes liées à la fraude générative à **40 Md$ aux États-Unis d'ici 2027**. Dans les environnements immersifs, ces risques se combinent : arnaques aux faux proches incarnés, manipulation d'avatars, pubs trompeuses dans les mondes virtuels. La réponse réglementaire s'organise : le **règlement européen sur l'IA (AI Act, règlement UE 2024/1689)** impose des obligations de **transparence** pour les contenus générés (label deepfakes) et pour les chatbots (obligation d'annoncer qu'on parle à une IA), avec des sanctions jusqu'à 35 M€ ou 7 % du chiffre d'affaires mondial ; les obligations de transparence s'appliquent depuis août 2026.
 
 ### 7.4 Inclusion, fracture numérique et accessibilité
 
@@ -271,11 +272,11 @@ Qui fait respecter quelles lois dans des mondes transfrontaliers ? Droit applica
 
 ### 8.1 Une accélération mutuelle des trajectoires technologiques
 
-L'IA tirée par le métavers (calcul graphique + calcul neuronal) et le métavers rendu possible par l'IA poussent des innovations croisées : puces hybrides (CPU/GPU/NPU), architectures de calcul en temps réel, standards 3D ouverts (OpenUSD, glTF), réseaux à latence ultra-faible. Le *spatial computing* porté par Apple (Vision Pro, 2024) a durablement installé le concept d'interface spatiale dans l'industrie, même si son adoption commerciale reste confidentielle (~430 K unités en 2024, moins de 100 K en 2025).
+L'IA tirée par le métavers (calcul graphique + calcul neuronal) et le métavers rendu possible par l'IA poussent des innovations croisées : puces hybrides (CPU/GPU/NPU), architectures de calcul en temps réel, standards 3D ouverts (OpenUSD, glTF), réseaux à latence ultra-faible. Le *spatial computing* porté par Apple (Vision Pro, 2024) a durablement installé le concept d'interface spatiale dans l'industrie, même si son adoption commerciale reste confidentielle (~430 K unités en 2024, ~45 000 en 2025, estimation IDC du T4 2025).
 
 ### 8.2 Basculement du marché du matériel immersif
 
-Les données 2025-2026 montrent une **bifurcation** : recul des casques VR/MR (-42,8 % en 2025) contre explosion des **lunettes connectées légères** (+167 % au T1 2026, IDC). Le futur de l'interface immersive semble être la **lunette augmentée légère assistée par IA** (Meta Ray-Ban Display, projets d'Android XR, etc.) plutôt que le casque immersif fermé. L'IA est le « cerveau » qui rend ces objets utiles au quotidien (assistant visuel, traduction, mémoire contextuelle).
+Les données 2025-2026 montrent une **bifurcation** : recul des casques VR/MR (−42,8 % en 2025) contre explosion des **smart glasses** (lunettes intelligentes sans écran : +211 % en 2025, +167 % au T1 2026, IDC). Le futur de l'interface immersive semble être la **lunette augmentée légère assistée par IA** (Meta Ray-Ban Display, projets d'Android XR, etc.) plutôt que le casque immersif fermé. L'IA est le « cerveau » qui rend ces objets utiles au quotidien (assistant visuel, traduction, mémoire contextuelle).
 
 ### 8.3 Le temps réel comme nouveau standard numérique
 
@@ -338,9 +339,9 @@ Le métavers et l'intelligence artificielle ne sont ni la panacée annoncée en 
 
 **Premièrement, l'économie de la convergence est massive mais inégalement répartie dans le temps.** Les projections (5 000 Md$ pour le métavers à 2030 selon McKinsey ; 2 600-4 400 Md$/an pour l'IA générative ; +7 % de PIB mondial sur dix ans selon Goldman Sachs) sont extraordinaires, mais elles se matérialiseront par vagues : l'IA d'abord, l'immersion industrielle ensuite, l'immersion grand public en dernier — à condition que le matériel devienne léger, bon marché et utile au quotidien.
 
-**Deuxièmement, l'adoption suit deux trajectoires divergentes qui se rejoindront.** L'IA générative a atteint une adoption grand public fulgurante (ChatGPT : 100 M d'utilisateurs en deux mois), tandis que le métavers demeure majoritairement industriel et jeune (Roblox : 70 M+ d'utilisateurs quotidiens sans casque). Le point de jonction sera l'**agent incarné** : l'IA avec un corps, une voix et une présence, accessible via lunettes légères ou écrans. Gartner avait prédit 25 % des gens une heure par jour dans le métavers en 2026 ; la réalité sera plus modeste à court terme, mais la direction est la bonne.
+**Deuxièmement, l'adoption suit deux trajectoires divergentes qui se rejoindront.** L'IA générative a atteint une adoption grand public fulgurante (ChatGPT : 100 M d'utilisateurs en deux mois), tandis que le métavers demeure majoritairement industriel et jeune (Roblox : 144 M d'utilisateurs quotidiens sans casque fin 2025, 132 M au T1 2026). Le point de jonction sera l'**agent incarné** : l'IA avec un corps, une voix et une présence, accessible via lunettes légères ou écrans. Gartner avait prédit 25 % des gens une heure par jour dans le métavers en 2026 ; la réalité sera plus modeste à court terme, mais la direction est la bonne.
 
-**Troisièmement, les impacts sociaux, éthiques et environnementaux détermineront l'acceptabilité et donc le succès final de ces technologies.** Emploi (+78 M net à 2030 selon le WEF, mais 22 % des emplois perturbés), vie privée biométrique, deepfakes (6,5 % de la fraude mondiale, +2 137 % en quatre ans), énergie (945 TWh en 2030 selon l'AIE) : aucun de ces défis n'est technique au sens strict — ce sont des **choix de société**. Les cadres réglementaires (AI Act européen, DSA, lois sectorielles) et les décisions d'investissement énergétique prises entre 2025 et 2030 façonneront le monde de demain bien plus que les feuilles de route produit des géants technologiques.
+**Troisièmement, les impacts sociaux, éthiques et environnementaux détermineront l'acceptabilité et donc le succès final de ces technologies.** Emploi (+78 M net à 2030 selon le WEF, mais 22 % des emplois perturbés), vie privée biométrique, deepfakes (6,5 % des tentatives de fraude mondiales en 2025 contre 0,1 % en 2022, Signicat), énergie (945 TWh en 2030 selon l'AIE) : aucun de ces défis n'est technique au sens strict — ce sont des **choix de société**. Les cadres réglementaires (AI Act européen, DSA, lois sectorielles) et les décisions d'investissement énergétique prises entre 2025 et 2030 façonneront le monde de demain bien plus que les feuilles de route produit des géants technologiques.
 
 En dernière analyse, la question n'est plus de savoir **si** les mondes virtuels intelligents transformeront l'économie et la société, mais **quels mondes nous choisirons de construire** : concentrés ou interopérables, sobres ou énergivores, inclusifs ou fracturés, régulés ou toxiques. Le métavers et l'IA sont des amplificateurs : ils amplifieront ce que nous y mettrons. La prospective éclairée, la régulation intelligente et la formation massive des compétences constituent la triple condition pour que cette convergence serve le progrès humain plutôt que de creuser les fractures existantes.
 
@@ -352,18 +353,18 @@ En dernière analyse, la question n'est plus de savoir **si** les mondes virtuel
 
 1. **McKinsey & Company** (juin 2022). *Value Creation in the Metaverse: The Real Business in the Virtual World.* — https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/value-creation-in-the-metaverse
 2. **McKinsey & Company** (juin 2023). *The Economic Potential of Generative AI: The Next Productivity Frontier.* — https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier
-3. **Goldman Sachs Research** (2023). *The Potentially Large Effects of Artificial Intelligence on Economic Growth* (Briggs & Kodnani) ; et « Generative AI could raise global GDP by 7 % », avril 2023. — https://www.goldmansachs.com/insights/articles/generative-could-raise-global-gdp-by-7-percent
+3. **Goldman Sachs Research** (2023). *The Potentially Large Effects of Artificial Intelligence on Economic Growth* (Briggs & Kodnani) ; et « Generative AI could raise global GDP by 7 % », avril 2023. — https://www.goldmansachs.com/insights/articles/generative-ai-could-raise-global-gdp-by-7-percent
 4. **Gartner, Inc.** (février 2022). *Gartner Predicts 25 % of People Will Spend At Least One Hour Per Day in the Metaverse by 2026* (communiqué, Business Wire). — https://www.businesswire.com/news/home/20220207005085/en/
 5. **World Economic Forum** (janvier 2025). *Future of Jobs Report 2025.* — https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf ; communiqué : https://www.weforum.org/press/2025/01/future-of-jobs-report-2025-78-million-new-job-opportunities-by-2030-but-urgent-upskilling-needed-to-prepare-workforces/
 6. **International Energy Agency** (2025). *Energy and AI — Energy demand from AI.* — https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai
 7. **PwC US** (2020, mis à jour 2022). *The Effectiveness of Virtual Reality Soft Skills Training in the Enterprise.* — https://www.pwc.com/us/en/tech-effect/emerging-tech/virtual-reality-study.html
-8. **IDC** (2025-2026). *Augmented and Virtual Reality Headsets Market Tracker* — https://www.idc.com/promo/arvr/ ; données relayées par Treeview Studio (avril 2026), G2 (juin 2026).
+8. **IDC** (2025-2026). *Augmented and Virtual Reality Headsets Market Tracker* — https://www.idc.com/promo/arvr/ ; *Global XR Shipments Rebound Behind Glasses-First Momentum* (déc. 2025) ; *Smart Glasses Surge: The XR Market Is Rewriting Its Own Rules* (15 juin 2026) — https://www.idc.com/resource-center/blog/smart-glasses-surge-the-xr-market-is-rewriting-its-own-rules/ ; données relayées par G2 (juin 2026).
 9. **Statista Market Insights** (2025-2026). *Metaverse — Worldwide, Market Forecast.* — https://www.statista.com/outlook/amo/metaverse/worldwide/ ; *Metaverse — Statistics & Facts.* — https://www.statista.com/topics/8652/metaverse/
 10. **World Economic Forum** (février 2023). *How big a marketplace will the metaverse become ?* — https://www.weforum.org/stories/industries-in-depth/chart-metaverse-market-growth-digital-economy/
 11. **PS Market Research** (2024). *Metaverse Market Size, Share, Trends Report.* — https://www.psmarketresearch.com/market-analysis/metaverse-market
-12. **Sumsub** (2025-2026). *Identity Fraud Report* (part des deepfakes dans la fraude : 6,5 %), relayé par StationX, *Deepfake Statistics 2026.* — https://app.stationx.net/articles/deepfake-statistics
-13. **Deloitte** (2024-2027). Estimation des pertes liées à la fraude générative aux États-Unis (40 Md$ d'ici 2027), citée par Jones Walker AI Law Blog (janvier 2026).
-14. **FBI Internet Crime Report** (2025), données fraude IA (893,3 M$), relayées par Digital Applied (juillet 2026). — https://www.digitalapplied.com/blog/deepfake-statistics-2026-fraud-detection-data
+12. **Signicat** (2025). *The Battle Against AI-Driven Identity Fraud* (deepfakes : 0,1 % des tentatives de fraude en 2022 → 6,5 % en 2025, +2 137 % en trois ans). — https://www.signicat.com/press-releases/fraud-attempts-with-deepfakes-have-increased-by-2137-over-the-last-three-year
+13. **Deloitte** (29 mai 2024). *Deepfake banking and AI fraud risk on the rise* (pertes liées à la fraude générative : 40 Md$ aux États-Unis d'ici 2027). — https://www.deloitte.com/us/en/insights/industry/financial-services/deepfake-banking-fraud-risk-on-the-rise.html
+14. **FBI, Internet Crime Complaint Center** (2025). *Internet Crime Report 2025* (fraude assistée par IA : 22 364 plaintes, 893,3 M$ de pertes). — https://www.fbi.gov/file-repository/2025_ic3report.pdf
 
 ### Documents officiels et réglementaires
 
@@ -377,7 +378,7 @@ En dernière analyse, la question n'est plus de savoir **si** les mondes virtuel
 19. **T-Systems / Deutsche Telekom** (septembre 2024). *How BMW leverages the Industrial Metaverse.* — https://www.t-systems.com/dk/en/insights/newsroom/expert-blogs/how-bmw-leverages-industrial-metaverse-1018168
 20. **Apple Newsroom** (juin 2023 ; avril 2024). *Introducing Apple Vision Pro* ; *Apple Vision Pro brings a new era of spatial computing to business.* — https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/
 21. **Meta Platforms, Inc.** — Résultats financiers trimestriels Reality Labs (2020-2026) ; compilations : CNBC (29 avril 2026), *Meta's Reality Labs lost over $4 billion in first quarter* ; Statista (janvier 2026), *Meta's Reality Labs Lose $19B as VR Ambitions Falter* ; Fortune (1er mai 2026).
-22. **Roblox Corporation** — Rapports annuels et indicateurs d'audience (70 M+ DAU, 2024-2025) ; relayés par PatentPC (mars 2025), Market Research Future (2026).
+22. **Roblox Corporation** — Lettres trimestrielles aux actionnaires et rapports 10-K (SEC) : 144 M DAU au T4 2025, 132 M au T1 2026 (*Q1 2026 Shareholder Letter*, 30 avril 2026).
 
 ### Publications scientifiques
 
@@ -396,7 +397,7 @@ En dernière analyse, la question n'est plus de savoir **si** les mondes virtuel
 32. **GamesIndustry.biz** (29 janvier 2026). *Meta's Reality Labs division generated $2.2bn, lost $19.2bn in FY25.*
 33. **G2** (juin 2026). *50+ Virtual Reality Statistics : Meta Holds 72 % of the 2026 XR market.*
 34. **Treeview Studio** (avril 2026). *AR/VR/MR/XR Spatial Computing Industry Statistics Report.* — https://treeview.studio/blog/ar-vr-mr-xr-metaverse-spatial-computing-industry-stats
-35. **SQ Magazine** (juin 2025). *Metaverse Statistics 2026 : Market Size, NFTs, Users.* — https://sqmagazine.co.uk/metaverse-statistics/
+35. **National Research Group** (juin 2024). « 13 % des ménages américains possèdent au moins un casque » (repris par la presse spécialisée ; rapport primaire non localisé — source de précaution). — https://finance.yahoo.com/news/u-mixed-reality-headset-market-152000241.html
 36. **Counterpoint Research** (2024-2025), estimations de ventes Apple Vision Pro relayées par la presse spécialisée (Reddit/9to5Mac compilations).
 37. **Wharton Budget Model, University of Pennsylvania** (septembre 2025). *The Projected Impact of Generative AI on Future Productivity Growth.* — https://budgetmodel.wharton.upenn.edu/p/2025-09-08-the-projected-impact-of-generative-ai-on-future-productivity-growth/
 38. **MIT Sloan / FutureTech** (juin 2024). *Putting the Economic Impact of GenAI into Scale.* — https://futuretech.mit.edu/news/putting-the-economic-impact-of-genai-into-scale

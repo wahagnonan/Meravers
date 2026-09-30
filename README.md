@@ -1,4 +1,4 @@
-# Meravers — Métavers et Intelligence Artificielle
+# Métavers et Intelligence Artificielle
 
 Dossier de recherche documenté sur le sujet :
 
@@ -23,7 +23,7 @@ Toutes les affirmations chiffrées sont adossées à des sources datées et vér
 
 - **Économie** : métavers jusqu'à 5 000 Md$ de valeur d'ici 2030 (McKinsey 2022) ; IA générative +2 600 à 4 400 Md$/an (McKinsey 2023) ; +7 % de PIB mondial sur 10 ans (Goldman Sachs)
 - **Emploi** : −92 M emplois déplacés, +170 M créés d'ici 2030, solde net +78 M (WEF, Future of Jobs 2025)
-- **Adoption** : Roblox 144 M d'utilisateurs actifs quotidiens (T4 2025) ; ~13 % des ménages américains équipés en VR ; +167 % de croissance des lunettes connectées (IDC, T1 2026)
+- **Adoption** : Roblox 144 M d'utilisateurs actifs quotidiens (T4 2025 ; 132 M au T1 2026 après vérifications d'âge) ; ~13 % des ménages américains équipés en VR ; bifurcation matérielle : casques VR/MR −42,8 % en 2025, smart glasses +211 % puis +167 % au T1 2026 (IDC)
 - **Énergie** : consommation électrique des centres de données multipliée par 2 → ~945 TWh en 2030 (AIE)
 - **Régulation** : AI Act européen applicable depuis août 2026 (étiquetage obligatoire des deepfakes)
 

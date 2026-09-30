@@ -12,15 +12,15 @@
 | Roblox | DAU moyens / heures | 127 M moyens ; 124 Md d'heures | FY 2025 |
 | Roblox | DAU | 132 M (recul : vérifications d'âge + interdiction russe) | Q1 2026 |
 | Fortnite (Epic) | MAU estimés | ~110 M ; 650 M comptes cumulés | 2025-2026 |
-| Fortnite | Pic de joueurs simultanés | 14 346 265 | 30 nov. 2024 |
+| Fortnite | Pic de joueurs simultanés | ≈14,3 M (concert *Remix: The Finale*, record absolu : 15,3 M en 2020) | 30 nov. 2024 |
 | VRChat | Joueurs simultanés (record) | 148 886 | 1er janv. 2026 |
 | Meta Horizon Worlds | MAU | ~300 K (dernier chiffre public), révisé à ~200 K en interne | fév. 2022 |
 | Decentraland | Visiteurs uniques web / wallets actifs | 3,9 M / 270 K | 2025 |
 | The Sandbox | DAU | « quelques centaines » ; −50 % des effectifs | août 2025 |
 
-Roblox reste de loin la première plateforme « métavers » : ses DAU ont doublé entre Q1 2025 (97,8 M) et Q3 2025 (151,5 M) avant de fléchir. Fortnite stagne autour de 110 M MAU (Epic ne publie plus de chiffres officiels : estimations tierces). Horizon Worlds n'a jamais atteint l'échelle visée et Meta ne publie plus de données depuis 2022, malgré une croissance mobile ×4 et +280 % d'achats in-world en 2025. Decentraland et The Sandbox restent marginalisés (retention J1 : 12 %).
+Roblox reste de loin la première plateforme « métavers » : ses DAU moyens ont progressé d'environ **+55 % (×1,55)** entre le T1 2025 (97,8 M) et le T3 2025 (151,5 M) avant de fléchir (moyennes trimestrielles, rapports trimestriels Roblox). Fortnite stagne autour de 110 M MAU (Epic ne publie plus de chiffres officiels : estimations tierces). Horizon Worlds n'a jamais atteint l'échelle visée et Meta ne publie plus de données depuis 2022, malgré une croissance mobile ×4 et +280 % d'achats in-world en 2025. Decentraland et The Sandbox restent marginalisés (retention J1 : 12 %).
 
-**Casques VR** : le marché mondial de casques VR/MR a chuté de **42,8 % en 2025** (IDC) ; Meta a expédié 1,7 M Quest sur 9 mois (−16 %) et Apple seulement **45 000 Vision Pro** en 2025 (vs 390 000 en 2024). En janvier 2026, **1,77 % des utilisateurs Steam** avaient un casque connecté (Steam Hardware Survey). Prix d'entrée : Quest 3S à **299,99 $** (Meta, 2024) ; Vision Pro à 3 500 $. Environ **13 % des ménages américains** possèdent un casque ; 171 M de personnes ont utilisé la VR dans le monde en 2025.
+**Casques VR** : le marché mondial de casques VR/MR a chuté de **42,8 % en 2025** (IDC) ; Meta a expédié 1,7 M Quest sur 9 mois (−16 %) et Apple **~45 000 Vision Pro en 2025** (vs 390 000 en 2024) — estimation IDC du **T4 2025** (FT/PCMag/MacRumors, janv. 2026) constituant le quasi-total de l'année, faute d'envois avant l'octobre 2025 ; IDC prévoit **290 000 unités en 2026** et un casque d'entrée en H2 2026 (recentrage entreprise/éducation, pas abandon). En janvier 2026, **1,77 % des utilisateurs Steam** avaient un casque connecté (Steam Hardware Survey). Prix d'entrée : Quest 3S à **299,99 $** (Meta, 2024) ; Vision Pro à 3 500 $. Environ **13 % des ménages américains** possèdent au moins un casque (National Research Group, juin 2024 — chiffre repris par la presse spécialisée, rapport primaire non localisé : **Tier 4**).
 
 ## 2. Démographie et usages dominants
 
@@ -57,7 +57,7 @@ Roblox reste de loin la première plateforme « métavers » : ses DAU ont doubl
 
 - **IDC** : expéditions XR +33,5 % en 2026 ; 43,1 M d'unités XR en 2029 ; casques mixtes (Quest) de 3,2 M (2026) à 10,4 M (2030), soit un TCAC de 34,4 % ; lunettes connectées : TCAC de 29,3 % (2025-2029).
 - **Grand View Research (2025)** : marché du métavers à 936,57 Md USD d'ici 2030 (TCAC 46,4 %) ; MarketsandMarkets (2026) : 1 303,4 Md USD.
-- **Utilisateurs VR** : 171 M (2025) → 216 M (2026) ; États-Unis : 80,6 M (2025) → 91,3 M (2028).
+- **Utilisateurs VR** : série non vérifiable à la source primaire (attributions agrégateurs contradictoires ; la valeur 216 M recycle une prévision NewGenApps de 2022) — **retirée** du dossier.
 - **McKinsey (2022)** : valeur potentielle du métavers jusqu'à 5 000 Md USD d'ici 2030.
 
 > **Lecture critique** : les chiffres de plateformes « sociales/ludiques » (Roblox, VRChat) sont fiables et en croissance ; ceux des métavers « purs » (Decentraland, Sandbox, Horizon Worlds) sont faibles ou opaques ; les prévisions de marché (900 Md à 1 300 Md USD) sont des projections commerciales, pas des données constatées.
@@ -92,3 +92,5 @@ Roblox reste de loin la première plateforme « métavers » : ses DAU ont doubl
 24. MarketsandMarkets, « Metaverse Market Surges to $1,303.4 Billion by 2030 », 14 janv. 2026 — https://www.globenewswire.com/news-release/2026/01/14/3218793/0/en/Metaverse-Market-Surges-to-1-303-4-Billion-by-2030-CAGR-48-0.html
 25. World Economic Forum, *Interoperability in the Metaverse* — https://www3.weforum.org/docs/WEF_Interoperability_in_the_Metaverse.pdf
 26. techUK/Global Counsel, *The question of interoperability in the metaverse* — https://www.techuk.org/resource/the-question-of-interoperability-in-the-metaverse.html
+27. National Research Group (« 13 % des ménages américains possèdent au moins un casque »), juin 2024 — rapport primaire non localisé ; repris par la presse spécialisée — https://finance.yahoo.com/news/u-mixed-reality-headset-market-152000241.html (Tier 4)
+28. Epic Games, annonce du record Fortnite (« More than 14 million concurrent players », concert *Remix: The Finale*), 30/11-01/12/2024, repris par Polygon et Eurogamer (Tier 1 ; les trackers tiers donnent 14 343 880 à 14 346 265 — Tier 4, écart de ~2 000 unités)

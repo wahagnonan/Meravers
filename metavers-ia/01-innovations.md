@@ -30,12 +30,12 @@ Les estimations de marché divergent fortement : McKinsey annonçait jusqu'à 5 
 - **Microsoft** : a retiré Microsoft Mesh le 1ᵉʳ décembre 2025 au profit des « immersive events » natifs dans Teams (avatars, espaces 3D, PC/Mac/Quest), signe d'une priorité donnée à l'intégration logicielle plutôt qu'au métavers autonome [20][21].
 - **NVIDIA** : Cosmos (world foundation models, 20 M d'heures de vidéo d'entraînement) couple à Omniverse pour générer des données synthétiques physiquement réalistes [15] ; Cosmos 3 (mai 2026) est présenté comme le premier « omnimodel » ouvert combinant vision, monde et action [17].
 - **Google/Samsung/Qualcomm** : Android XR conçu « pour l'ère Gemini », qui doit passer des casques aux lunettes AI [6][7].
-- **Roblox, Decentraland, Somnium Space** : génération 3D embarquée côté joueurs chez Roblox [13] ; Somnium Space a ajouté l'eye/face tracking et des appels vidéo VR‑vers‑VR/IRL fin 2025.
+- **Roblox, Decentraland, Somnium Space** : génération 3D embarquée côté joueurs chez Roblox [13] ; Somnium Space a ajouté (version V3.1.1, 23/12/2025) le face/eye tracking **d'avatar** et les appels vidéo VR‑vers‑VR/IRL — l'eye tracking matériel du casque VR1 existant antérieurement [33].
 - **Apple** : a suspendu en octobre 2025 le renouvellement du Vision Pro (variante N100) pour réallouer les équipes aux lunettes AI [27], cibles initialement annoncées fin 2026 [28] mais repoussées selon des informations ultérieures (fin 2027) — **calendrier incertain**.
 
 ## 5. Interfaces cerveau‑machine
 
-Neuralink est passé de 7 participants (été 2025) à 12 patients en septembre 2025, cumulant ~15 000 heures d'usage et 7,5 h/jour en moyenne [29][30]. Le CEA/roadmap annonce 3 000 électrodes en 2026 et une intégration IA [29]. MIT Technology Review recense ~25 essais cliniques de BCI en cours en 2025 et estime que la rupture commerciale surviendra sous 5 à 10 ans [31]. Ces technologies restent **expérimentales et non approuvées à la vente**.
+Neuralink est passé de 7 participants (été 2025) à 12 patients en septembre 2025, cumulant ~15 000 heures d'usage et 7,5 h/jour en moyenne [29][30]. Côté français, le CEA développe l'implant **WIMAGINE® (64 canaux)**, le programme **AUDACE** (40 M€, France 2030, mars 2025) et l'essai **BCI4Stroke/BrainSync** (1ᵉʳ patient attendu en 2026) [34]. MIT Technology Review recense ~25 essais cliniques de BCI en cours en 2025 et estime que la rupture commerciale surviendra sous 5 à 10 ans [31]. Ces technologies restent **expérimentales et non approuvées à la vente**.
 
 ## 6. Jalons 2024‑2026
 
@@ -77,5 +77,7 @@ Neuralink est passé de 7 participants (été 2025) à 12 patients en septembre 
 [30] TechSpot, *Neuralink: 12 patients have used its brain interface chips*, 2025, https://www.techspot.com/news/109403-elon-musk-neuralink-12-patients-have-used-brain.html
 [31] MIT Technology Review, *Brain‑computer interfaces face a critical test*, 2025, https://www.technologyreview.com/2025/04/01/1114009/brain-computer-interfaces-10-breakthrough-technologies-2025/
 [32] Bitrue, *Metaverse Land Sales: Decentraland vs Sandbox Q4 Update*, 2025, https://www.bitrue.com/blog/metaverse-land-sales-decentraland-vs-sandbox-q4
+[33] Somnium Times, *Exciting Horizons: Somnium Space Unveils Major Updates at Developer Meetup*, 20/11/2025, et journal de versions officiel Somnium Space (V3.1.1, 23/12/2025), https://somniumtimes.com/2025/11/20/exciting-horizons-somnium-space-unveils-major-updates-at-developer-meetup
+[34] CEA-Leti, *AVC : Brain-Computer Interface* (WIMAGINE®, AUDACE, BCI4Stroke/BrainSync), 02/06/2026, https://www.cea.fr/cea-tech/leti/Pages/actualites/News/AVC-Brain-Computer-Interface-FR.aspx
 
 **Réserves** : chiffres McKinsey (2022) anciens ; estimations de marché très divergentes selon cabinets ; données foncières cryptos non vérifiées par une source primaire ; calendrier Apple non confirmé officiellement ; aucune donnée fiable localisée sur les brevets spécifiques déposés 2024‑2026.

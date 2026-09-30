@@ -1,0 +1,3 @@
+# Logs d'authentification (contient des jetons)
+ghauth.log
+*.log
