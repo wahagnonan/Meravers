@@ -17,6 +17,7 @@ Toutes les affirmations chiffrées sont adossées à des sources datées et vér
 | [`metavers-ia/03-adoption.md`](metavers-ia/03-adoption.md) | Adoption utilisateurs : statistiques, démographie, freins, prévisions (26 sources) |
 | [`metavers-ia/04-impacts.md`](metavers-ia/04-impacts.md) | Impacts économiques, sociaux, technologiques et réglementaires |
 | [`metavers-ia/05-besoins-et-classification.md`](metavers-ia/05-besoins-et-classification.md) | Évaluation critique : besoins réels vs artificiels, classification des sources par fiabilité (tiers 1-4) |
+| [`metavers-ia/06-verification-des-sources.md`](metavers-ia/06-verification-des-sources.md) | Note de vérification : contrôle qualité des sources critiques et limites reconnues |
 
 ## Chiffres clés (sources dans les rapports)
 
