@@ -11,9 +11,10 @@
 | Roblox | DAU | 144 M (+69 % en glissement annuel) | Q4 2025 |
 | Roblox | DAU moyens / heures | 127 M moyens ; 124 Md d'heures | FY 2025 |
 | Roblox | DAU | 132 M (recul : vérifications d'âge + interdiction russe) | Q1 2026 |
+| Roblox | Pic de joueurs simultanés | >45 M (record toutes plateformes, annonce du CEO ; valeur tracker : 47,3 M, Tier 4) | 23 août 2025 |
 | Fortnite (Epic) | MAU estimés | ~110 M ; 650 M comptes cumulés | 2025-2026 |
 | Fortnite | Pic de joueurs simultanés | ≈14,3 M (concert *Remix: The Finale*, record absolu : 15,3 M en 2020) | 30 nov. 2024 |
-| VRChat | Joueurs simultanés (record) | 148 886 | 1er janv. 2026 |
+| VRChat | Utilisateurs simultanés (record toutes plateformes) | 148 886 (réveillon 2025 → 1ᵉʳ janv. 2026, fuseau Central ; record dépassé : 156 716 le 15/02/2026) | 01/01/2026 |
 | Meta Horizon Worlds | MAU | ~300 K (dernier chiffre public), révisé à ~200 K en interne | fév. 2022 |
 | Decentraland | Visiteurs uniques web / wallets actifs | 3,9 M / 270 K | 2025 |
 | The Sandbox | DAU | « quelques centaines » ; −50 % des effectifs | août 2025 |

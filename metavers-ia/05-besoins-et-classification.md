@@ -21,7 +21,7 @@ Cette grille permet de trier les résultats de la recherche documentaire en troi
 | Soigner phobies, TSPT, autisme | Thérapies par exposition virtuelle | Efficacité validée par méta-analyses (JMIR 2022, MDPI 2024, Frontiers 2024) | Littérature scientifique |
 | Éviter les erreurs industrielles coûteuses | Jumeaux numériques (Omniverse, Xcelerator) | +20 % de débit (PepsiCo), mise en service 2,5 mois au lieu de 5 (Wistron) | Siemens × NVIDIA, 2025-2026 |
 | Travailler plus efficacement | Assistance IA au travail | +14-15 % de tâches/heure, +30-35 % pour les novices | Brynjolfsson, Li & Raymond, QJE 2025 |
-| Se divertir et socialiser en ligne | Mondes ludiques persistants | Roblox : 144 M DAU, 124 Md d'heures de jeu (T4 2025) ; VRChat : record 148 886 simultanés | Résultats publiés Roblox ; Road to VR |
+| Se divertir et socialiser en ligne | Mondes ludiques persistants | Roblox : 144 M DAU, 124 Md d'heures de jeu (T4 2025), pic >45 M simultanés (23/08/2025) ; VRChat : record 148 886 simultanés toutes plateformes (réveillon 2025, dépassé : 156 716 le 15/02/2026) | Résultats publiés Roblox ; Road to VR |
 | Vendre et visualiser avant achat | Visites virtuelles, essayage AR | Ventes DAMAC/PropVR : 24 M$ → 400 M$+ ; 3,5 M d'essayages Walmart | Epic Games 2025 ; Digiday 2025 |
 
 **Conclusion partielle** : là où un besoin préexistant est servi *mieux, plus vite ou moins cher*, l'adoption est mesurable et durable — formation, santé, industrie, assistance IA.

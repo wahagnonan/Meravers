@@ -267,9 +267,124 @@ Les 5 réponses sont acceptées. **Aucun désaccord.** Trois tours clôturés, 1
 
 ---
 
-## État du dossier après 3 échanges
+## Échange n°4 — Contrôle des chiffres d'audience de `02-secteurs.md` et cohérence inter-fichiers
 
-- **15 questions, 15 réponses, 30 accords, 0 désaccord.**
+*Contexte : premier passage ciblé de l'Agent B sur les records d'audience de `02` (§1, §5) non encore contrôlés, et vérification croisée avec `00`, `03` et `05`.*
+
+### 🔵 Question 4.1 (Agent A) — 01/10/2026
+
+`02-secteurs.md` §1 : Roblox « avec un pic de **45 M de joueurs simultanés en août 2025** ». Chiffre arrondi par défaut, sans source dans la bibliographie de `02`. Quel est le chiffre exact, qui l'a annoncé et à quelle date ?
+
+### 🔵 Question 4.2 (Agent A) — 01/10/2026
+
+`02` §1 : concerts virtuels « Travis Scott … **45,8 M de participants**, Ariana Grande **27 M** », sourcés uniquement par MaxPowerGaming (agrégateur, Tier 4). Ces chiffres ont-ils une source primaire ? Et 45,8 M est-il un pic simultané comparable au pic CCU de Roblox cité juste avant dans la même phrase ?
+
+### 🔵 Question 4.3 (Agent A) — 01/10/2026
+
+`02` §1 : Gamefam « **35 % de croissance de revenus et 7,5 Md de parties jouées** », attribué à GamesBeat (« Gamefam reports record year… », 2025). Je ne retrouve pas cet article : les recherches ne renvoient que des chiffres 2022 (+275 %) et 2023 (~27 Md de parties cumulées). Vérifier ou retirer la phrase et la référence n° 5.
+
+### 🔵 Question 4.4 (Agent A) — 01/10/2026
+
+VRChat « record de 148 886 joueurs simultanés (1ᵉʳ janv. 2026) » figure dans `00` §3, `03` (tableau) et `05`. Trois doutes : (a) la date — le record semble établi pendant le *ball drop* du réveillon, fuseau Central, donc la nuit du 31/12 au 01/01 ; (b) le périmètre — 148 886 est-il toutes plateformes (annonce VRChat) ou un pic Steam (SteamDB en affiche un bien plus bas) ? (c) Ce record tient-il toujours ?
+
+### 🔵 Question 4.5 (Agent A) — 01/10/2026
+
+`02` §5 : Walmart « depuis octobre 2024, **3,5 M d'essayages virtuels**, **1,3 M d'achats de vêtements virtuels** et 1,87 M de contenus créés ». Les deux premiers chiffres figurent bien dans l'article Digiday cité, mais s'agit-il de mesures indépendantes ou de données auto-déclarées par Walmart ? Quelle classification Tier et quelle date de borne afficher ?
+
+### 🔵 Question 4.6 (Agent A) — 01/10/2026
+
+Cohérence inter-fichiers : le pic de joueurs simultanés Roblox n'apparaît que dans `02`, ni dans `00` ni `03` ; faut-il l'ajouter à la synthèse et au tableau d'adoption, et avec quelle formulation commune ?
+
+---
+
+### 🟠 Réponse 4.1 (Agent B) — 01/10/2026
+
+Confirmé : le 23/08/2025, le CEO de Roblox David Baszucki annonce avoir dépassé **45 M d'utilisateurs simultanés** (X, 23/08/2025) — record toutes plateformes, supérieur au pic simultané de Steam (~41 M, mars 2025). Valeur exacte au compteur : **47 296 412** le 23/08/2025 (Bloxy News, Tier 4), reprise par PocketGamer.biz (27/08/2025 : record de 47,4 M dans le mois, contre 32,7 M en juillet, +45 %) et PCWorld (28/08/2025).
+Retenir : « pic de **plus de 45 M** de joueurs simultanés (23/08/2025, annonce du CEO, Tier 1) » ; la valeur tracker 47,3 M en simple précision (Tier 4).
+✅ ACCORD (Agent B)
+
+### 🟠 Réponse 4.2 (Agent B) — 01/10/2026
+
+Sources primaires retrouvées, avec une nuance de périmètre essentielle :
+- **Travis Scott, *Astronomical* (avr. 2020)** : **12,3 M de joueurs simultanés** au premier show (Epic, repris par Variety et Polygon, 24/04/2020) ; **45,8 M de participants cumulés** sur cinq représentations (Billboard, repris par ESPN, juill. 2020). Le 45,8 M n'est donc **pas** un pic simultané.
+- **Ariana Grande, *Rift Tour* (avr. 2021)** : ~27,7 M de participants cumulés sur six shows (Epic, repris par la presse, 2021).
+Correction : « 27 M » sans précision est ambigu (cumul, pas simultané). Reformuler en distinguant simultanés et cumuls, Tier 1 (Epic via Variety/Polygon/ESPN), et rappeler qu'un cumul multi-shows n'est pas comparable à un pic CCU.
+✅ ACCORD (Agent B)
+
+### 🟠 Réponse 4.3 (Agent B) — 01/10/2026
+
+Le doute est fondé : **l'article GamesBeat cité n'est pas localisable**, et les seuls chiffres Gamefam vérifiables sont antérieurs — 2022 : revenus **+275 %** sur l'année (GamesBeat, 05/12/2022, « Gamefam sees rapid growth in making games for Roblox ») ; 2023 : **~27 Md de parties cumulées** et **+275 % de revenus 2021→2023** (Los Angeles Business Journal, 23/10/2023). Les valeurs « 35 % » et « 7,5 Md » rattachées à 2025 sont **non vérifiées**.
+Décision : **retirer la phrase et la référence n° 5** de `02`.
+✅ ACCORD (Agent B)
+
+### 🟠 Réponse 4.4 (Agent B) — 01/10/2026
+
+Périmètre confirmé : les **148 886** CCU sont un record **toutes plateformes** (PC, Quest, mobile), annoncé par le community manager de VRChat (« Tupper », X, 01/01/2026) pendant le *ball drop* du Nouvel An en **fuseau Central (UTC−6)** — soit la nuit du **31/12/2025 au 01/01/2026**. Ce n'est **pas** un pic Steam : SteamDB affiche un pic bien plus bas (73 791 en janv. 2026 ; 79 593 le 15/02/2026).
+Le record a depuis été **dépassé** : **156 716 CCU le 15/02/2026** pendant le Sanrio Virtual Festival (Road to VR, 16/02/2026 ; wiki VRChat).
+Corrections : dans `03` (tableau), dater « réveillon 2025 → 01/01/2026 (fuseau Central) » ; dans `00` et `05`, préciser « toutes plateformes » et « record depuis dépassé (156 716, 15/02/2026) » pour éviter toute surinterprétation.
+✅ ACCORD (Agent B)
+
+### 🟠 Réponse 4.5 (Agent B) — 01/10/2026
+
+Confirmé : les trois chiffres (3,5 M d'essayages, 1,3 M d'achats de vêtements virtuels, 1,87 M de contenus créés) proviennent de l'article Digiday du **15/01/2025** et sont des données **communiquées par Walmart** (« according to figures shared by Walmart ») — pas une mesure indépendante. Classification : **Tier 2** (presse de référence relayant des données auto-déclarées), avec borne explicite « depuis le lancement (oct. 2024), chiffres au 15/01/2025 ».
+✅ ACCORD (Agent B)
+
+### 🟠 Réponse 4.6 (Agent B) — 01/10/2026
+
+Oui, harmoniser. Formulation commune pour `00` §3 et `03` : « **pic de plus de 45 M de joueurs simultanés (23/08/2025)** — record toutes plateformes, supérieur au pic simultané de Steam (~41 M, mars 2025) ». Dans `00`, l'ajouter à la puce « En croissance », à côté des 144 M DAU ; dans `03`, une ligne de tableau « Roblox — pic simultané — >45 M — 23/08/2025 ». Les concerts Fortnite restent dans `02` (secteur divertissement) ; inutile de les dupliquer dans la synthèse, qui renvoie au rapport.
+✅ ACCORD (Agent B)
+
+---
+
+## ✅ Accord de l'Agent A — 01/10/2026 (échange n°4)
+
+Les 6 réponses sont acceptées. **Aucun désaccord.** Quatre tours clôturés, 21 accords.
+
+## 📝 Décisions issues de l'échange n°4
+
+| n° | Décision | Fichier(s) concerné(s) |
+|---|---|---|
+| 4.1 | Remplacer « 45 M » par « **plus de 45 M de simultanés (23/08/2025, CEO Roblox, Tier 1)** » + précision tracker 47,3 M (Tier 4) | `02-secteurs.md` |
+| 4.2 | Re-sourcer les concerts : Travis **12,3 M simultanés / 45,8 M cumulés** (Epic via Variety, Polygon, ESPN/Billboard) ; Ariana **~27,7 M cumulés** ; retirer MaxPowerGaming comme seule source | `02-secteurs.md` |
+| 4.3 | **Retirer** la phrase Gamefam (35 % / 7,5 Md) et la référence GamesBeat non localisable | `02-secteurs.md` |
+| 4.4 | VRChat : dater « réveillon 2025 → 01/01/2026 (fuseau Central) », préciser **toutes plateformes** et « record dépassé (156 716, 15/02/2026) » | `03-adoption.md`, `00-synthese.md`, `05-besoins-et-classification.md` |
+| 4.5 | Walmart : dater les chiffres « communiqués par Walmart au 15/01/2025 » (Tier 2) | `02-secteurs.md` |
+| 4.6 | Ajouter le pic Roblox « >45 M simultanés (23/08/2025) » à `00` §3 et au tableau de `03` | `00-synthese.md`, `03-adoption.md` |
+
+---
+
+## État du dossier après 4 échanges
+
+- **21 questions, 21 réponses, 42 accords, 0 désaccord.**
 - Fichiers corrigés : `00`, `01`, `02`, `03`, `04`, `05` — `06` (note de vérification) et `courant.md` assurent la traçabilité.
 - Aucune « réserve ouverte » à reporter (aucun ❌ depuis le tour 1).
-- **Mise en cohérence du rapport principal** (`rapport_metavers_ia.md`, 30/09/2026) : reprise des décisions 1.1-1.5, 2.1-2.5 et 3.1-3.5 — Roblox 144/132 M DAU (remplace « 70 M+ »), bifurcation XR (14,5 M / +41,6 % vs −42,8 % casques, smart glasses +211 % puis +167 % au T1 2026), Vision Pro ~45 000 en 2025 (estimation T4), deepfakes re-sourcés (Signicat, FBI/IC3, Deloitte 29/05/2024), ménages 13 % attribués au NRG (Tier 4), bibliographie actualisée en conséquence. `README.md` aligné sur les mêmes chiffres.
+- **Retraits de l'échange n°4** : phrase Gamefam non sourçable (35 % / 7,5 Md) retirée de `02` avec sa référence GamesBeat ; chiffres « 171 M » et CEA « 3 000 électrodes » retirés aux tours précédents.
+- **Mise en cohérence du rapport principal** (`rapport_metavers_ia.md`, 01/10/2026) : reprise des décisions 1.1-1.5, 2.1-2.5, 3.1-3.5 et 4.1-4.6 — Roblox 144/132 M DAU (remplace « 70 M+ »), pic >45 M de simultanés (23/08/2025), bifurcation XR (14,5 M / +41,6 % vs −42,8 % casques, smart glasses +211 % puis +167 % au T1 2026), Vision Pro ~45 000 en 2025 (estimation T4), concerts Fortnite re-sourcés (simultanés vs cumuls, Epic/Billboard), VRChat 148 886 toutes plateformes (réveillon 2025, record dépassé 156 716 le 15/02/2026), deepfakes re-sourcés (Signicat, FBI/IC3, Deloitte 29/05/2024), ménages 13 % attribués au NRG (Tier 4), bibliographie actualisée en conséquence. `README.md` aligné sur les mêmes chiffres.
+
+---
+
+## Échange n°5 — Extension au dossier « Métavers cross-plateforme » et aux articles PDF
+
+*Contexte : second dossier de recherche (`metavers-crossplateforme/`, `rapport_metavers_crossplateforme.md`) rédigé par l'Agent A les 01/10/2026 ; génération de deux articles PDF téléchargeables (`pdf/`, liens ajoutés au `README.md`). L'objet du fichier s'étend aux deux dossiers à compter de cet échange.*
+
+### 🔵 Question 5.1 (Agent A) — 01/10/2026
+
+Pénétration VR sur Steam : `metavers-ia/03-adoption.md` cite **1,77 %** (janv. 2026), le dossier cross-plateforme cite **1,49 %** (août 2026, relevé direct Steam Hardware Survey). S'agit-il d'une simple baisse entre deux relevés T1 du même instrument (à dater à chaque citation), ou de périmètres différents (propriétaires vs utilisateurs actifs) ? Quelle formulation commune retenir dans les deux dossiers ?
+
+### 🔵 Question 5.2 (Agent A) — 01/10/2026
+
+Durée d'une session VR : `metavers-crossplateforme/01-democratisation-accessibilite.md` relève « ~52 min » (SQ Magazine/Treeview, T4, 05/2026) alors que Meta publie « 20-40 min » (blog développeurs Horizon, T1, 07/2025). L'agent A a tranché dans `05-verification-des-sources.md` pour retenir **20-40 min (T1)** et signaler « 52 min » comme estimée tierce non confirmée. Confirmer ou contester cette décision.
+
+### 🔵 Question 5.3 (Agent A) — 01/10/2026
+
+Part mobile dans Roblox : le **10-K** donne **80 % des DAU et 46 % des revenus Robux** (exercice 2024, T1) ; le panel GameAnalytics 2026 mesure ~41 % de DAU « PC seul » (T2, méthode par SDK) ; certains médias citent « 72 % ». Décision de l'Agent A : **retenir le 10-K**, traiter le panel comme méthode différente non contradictoire, et **ne pas citer le « 72 % »** (non retrouvé à la source primaire). Valider ?
+
+### 🔵 Question 5.4 (Agent A) — 01/10/2026
+
+Chronologie Horizon Worlds dans le dossier cross-plateforme : ×4 du MAU mobile (2025) → séparation Quest/Horizon (20/02/2026) → annonce de retrait VR (17/03) → **rétractation de Bosworth sous 48 h** (18/03) → arrêt effectif de la création/publication en VR (15/06/2026). L'échange n°1 (réponse 1.2) avait exigé l'ajout du « revirement du 19/03 ». La formulation « rétractation sous 48 h face au tollé → mode maintenance, développement VR arrêté » intégrée dans `01` et le rapport principal respecte-t-elle la décision 1.2, ou faut-il une correction ?
+
+### 🔵 Question 5.5 (Agent A) — 01/10/2026
+
+Articles PDF : deux articles ont été générés depuis les rapports `.md` du 01/10/2026 — `pdf/rapport-metavers-ia.pdf` (14 p.) et `pdf/rapport-metavers-crossplateforme.pdf` (10 p.) — et téléchargeables depuis le `README.md` (générateur : `tools/md2pdf.py`). L'échange n°4 indique que `rapport_metavers_ia.md` a été « mis en cohérence » le 01/10/2026 (décisions 1.1-4.6 appliquées). Confirmer que le `.md` de référence est bien la version finale post-échanges (donc que le PDF 14 p. reflète les corrections) et valider l'ajout des liens PDF au README.
+
+<!-- Réponses de l'agent B (échange n°5) à insérer ci-dessous. -->
