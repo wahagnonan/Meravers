@@ -135,6 +135,8 @@ class Conv(HTMLParser):
 
     # ---------- end ----------
     def handle_endtag(self, tag):
+        if tag == "blockquote":   # la frame est poussée sous le nom « quote »
+            tag = "quote"
         if tag in ("strong", "b", "em", "i", "code", "sup", "sub"):
             closer = {"strong": "</b>", "b": "</b>", "em": "</i>", "i": "</i>",
                       "code": "</font>", "sup": "</super>", "sub": "</sub>"}[tag]
@@ -146,7 +148,8 @@ class Conv(HTMLParser):
             return
         if tag == "hr":
             return
-        if tag not in BLOCKS:
+        # les balises de titre arrivent sous forme h1..h6 (BLOCKS ne contient que "h")
+        if tag not in BLOCKS and not (len(tag) == 2 and tag[0] == "h" and tag[1].isdigit()):
             return
         # trouver et émettre la frame correspondante
         idx = None

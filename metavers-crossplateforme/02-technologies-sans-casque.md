@@ -12,7 +12,7 @@
 |---|---|---|---|
 | ✅ WebXR Device API = W3C *Candidate Recommendation Draft* (statut « work in progress », pas encore Recommandation) | W3C / Immersive Web WG | 01/10/2025 | T1 |
 | ✅ WebXR = « Limited availability », **pas *Baseline*** : non disponible dans plusieurs navigateurs majeurs ; Safari/iOS toujours en bug ouvert | MDN Web Docs / WebKit Bugzilla | 02/06/2026 | T1 |
-| ✅ WebGPU activé **par défaut** sur macOS 26, iOS 26, iPadOS 26, visionOS 26 | gpuweb, *Implementation Status* | 2025-2026 | T1 |
+| ✅ WebGPU activé **par défaut** sur macOS 26, iOS 26, iPadOS 26, visionOS 26 — statut *Baseline* confirmé | gpuweb, *Implementation Status* ; MDN | **02/06/2026** | T1 |
 | ✅ Three.js ≈ **12,2 M téléchargements npm/semaine** ; @babylonjs/core ≈ 304 k/semaine (ratio ≈ 40×) | registre npm | 24/09/2026 | T1 |
 | ✅ Roblox : **123 M de joueurs quotidiens** au T2 2026 (+10 %/an), pic de 151 M à l'été 2025 ; 29 Md d'heures sur le trimestre | Roblox, lettre aux actionnaires (SEC), relayé AFP | 11-12/09/2026 | T1 |
 | ✅ « Roblox Everywhere » : lancement **dans Chrome, sans installation, via un lien**, d'ici fin 2026 ; mode hors ligne mi-2027 | Roblox Developers Conference | 11/09/2026 | T1 |

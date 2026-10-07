@@ -14,7 +14,7 @@
 | **[C]** 1 260,3 M de smartphones livrés en 2025 (+1,9 %) | IDC *Quarterly Mobile Phone Tracker* | 13/01/2026 | T1 |
 | **[C]** 14,5 M d'appareils XR livrés en 2025 (+41,6 %), Meta à 75,7 % du XR au T3 2025 (lunettes AI incluses) | IDC (prUS54033425) | 11/12/2025 | T1 |
 | **[P]** **Chute de −42,8 % des livraisons de casques MR/VR en 2025** (IDC, « once final numbers are in ») ; Meta = 1,7 M Quest sur les 3 premiers trimestres 2025 (−16 %), Apple Vision Pro ≈ 45 000 unités en 2025 (vs 390 000 en 2024) | IDC, relayé par *The Register* | 02/01/2026 | T1 (estimation provisoire) |
-| **[C]** **1,49 % des utilisateurs Steam** possèdent un casque VR (−0,22 point sur un mois) ; Quest 2 : 26,97 %, Quest 3 : 26,01 %, Quest 3S : 11,50 %, Valve Index : 11,07 % du parc VR | Steam Hardware Survey (relevé direct Valve) | août 2026 | T1 |
+| **[C]** **1,49 % des utilisateurs Steam** possèdent un casque VR (−0,22 point sur un mois ; relevé mensuel **volatile** : 1,05 % à 1,77 % entre janv. et sept. 2026) ; Quest 2 : 26,97 %, Quest 3 : 26,01 %, Quest 3S : 11,50 %, Valve Index : 11,07 % du parc VR | Steam Hardware Survey (relevé direct Valve) | août 2026 | T1 |
 | **[C]** ~**13 % des ménages US** équipés d'un casque ; 48 % des Américains ont déjà testé la VR | National Research Group, cité Arizton | 06/2024 | T4 — estimation, source primaire non localisée |
 | **[C]** > 7 M de lunettes AI (Ray-Ban/Oakley Meta) vendues en 2025, contre 2 M cumulés 2023-2024 | EssilorLuxottica, résultats T4 2025 | 11/02/2026 | T1 |
 | **[P]** Lunettes XR +211,2 % en 2025 ; croissance annuelle moyenne 29,3 % 2025-2029 | IDC | 12/2025 | T3 |
@@ -61,7 +61,7 @@
 | 05/02/2026 | Résultats T4 2025 : Zuckerberg annonce « faire d'Horizon un succès massif sur mobile » ; perte Reality Labs de 19,19 Md$ en 2025 (> 70 Md$ cumulés) | Meta earnings call — T1 |
 | 16/02/2026 | Arrêt de **Horizon Workrooms** ; arrêt des ventes Quest entreprise | Meta — T1 |
 | 20/02/2026 | **Séparation officielle Meta Quest / Horizon Worlds** ; Samantha Ryan (VP contenu Reality Labs) : Horizon devient « almost exclusively mobile » ; MAU mobile ×4 confirmés, 2 000+ mondes mobiles | PocketGamer.biz / Meta — T1 |
-| 17/03/2026 | Email aux utilisateurs : retrait du Quest Store le 31/03, fin de la VR le 15/06/2026 ; rétractation de Bosworth sous 48 h face au tollé → mode maintenance, développement VR arrêté | WIRED, VR.org, CNBC — T1/T4 |
+| 17/03/2026 | Email aux utilisateurs : retrait du Quest Store le 31/03, fin de la VR le 15/06/2026 ; rétractation de Bosworth le 18/03 (Instagram) face au tollé, confirmée par Meta le 19/03 → mode maintenance, développement VR arrêté | WIRED, VR.org, CNBC, TechCrunch — T1 |
 | 15/06/2026 | **Arrêt effectif de la création/publication en VR** ; Horizon Worlds survit en app mobile (45 M de téléchargements cumulés, installs mobiles +53 %/an — mais **~1,1 M$ de dépenses cumulées des consommateurs seulement**, estimation T4 : l'audience sans la dépense) | VR.org, Forbes, Meta — T1 ; monétisation : trackers d'applications — T4 |
 
 *Précision : l'« arrêt du développement VR » est annoncé le 17 mars 2026 mais l'application VR n'a disparu que le 15 juin 2026.*
@@ -98,7 +98,7 @@
 - Counterpoint, *Smartphone ASP Breaches $400* — https://counterpointresearch.com/en/insights/Global-Smartphone-Average-Selling-Price-Breaches-%24400-for-First-Time-in-a-Quarter
 - Meta, *An Update on Meta Quest Pricing* — https://www.meta.com/blog/update-meta-quest-pricing/ ; *Connect 2026* — https://www.meta.com/blog/meta-connect-2026-everything-we-announced/
 - Meta/GamesBeat, croissance ×4 Horizon mobile — https://gamesbeat.com/meta-connect-announcements-2-5m-creator-contest-gen-ai-investments-meta-horizon-engine-and-wearable-device-tools/
-- WIRED, *Shutting Down Horizon Worlds on Meta Quest* — https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest ; VR.org — https://vr.org/articles/horizon-worlds-vr-shutdown-june-15-2026-final
+- WIRED, *Shutting Down Horizon Worlds on Meta Quest* — https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest ; WIRED, *Meta Will Keep Horizon Worlds Alive in VR*, 19/03/2026 — https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/ ; CNBC, *Meta backtracks*, 19/03/2026 — https://www.cnbc.com/2026/03/19/meta-backtracks-on-decision-to-end-horizon-worlds-vr-ans-spoke-up.html ; VR.org — https://vr.org/articles/horizon-worlds-vr-shutdown-june-15-2026-final
 - PocketGamer.biz, split Quest/Horizon — https://www.pocketgamer.biz/meta-splits-quest-and-horizon-worlds-as-it-pivots-the-social-sandbox-app-toward-mobile ; 80 % mobile Roblox — https://www.pocketgamer.biz/80-of-roblox-users-are-on-mobile-contributing-46-of-robux-revenue
 - GameAnalytics 2026 — https://www.gameanalytics.com/reports/2026-mobile-pc-gaming-benchmarks
 - Meta, sessions VR « Goldilocks » — https://developers.meta.com/horizon/blog/optimize-user-time-goldilocks-session-length-meta-quest/

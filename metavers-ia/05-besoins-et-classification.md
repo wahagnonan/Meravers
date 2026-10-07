@@ -61,7 +61,7 @@ Résultats financiers publiés, relevés de marché indépendants :
 - Roblox : 4,9 Md$ de revenus 2025, 144 M DAU (lettre aux actionnaires T4 2025, 10-K SEC)
 - Pertes Reality Labs : ~80-90 Md$ cumulés (rapports trimestriels Meta, compilés CNBC/Statista)
 - Casques VR/MR : −42,8 % en 2025 ; smart glasses +167 % au T1 2026 (IDC, 15/06/2026)
-- 1,77 % des utilisateurs Steam équipés d'un casque (Steam Hardware Survey, janv. 2026)
+- 1,77 % des utilisateurs Steam équipés d'un casque (Steam Hardware Survey, janv. 2026 — relevé mensuel volatile, 1,05-1,77 % sur 8 mois)
 
 ### Tier 2 — Effets mesurés (fiabilité forte)
 

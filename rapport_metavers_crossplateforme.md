@@ -100,7 +100,7 @@ La chronologie est documentée et constitue l'événement le plus significatif d
 - **Sept. 2025** — Meta Connect : MAU des mondes mobiles **×4 sur un an**, 5 000 mondes mobiles publiés, achats in-world +280 %.
 - **Févr. 2026** — Résultats T4 2025 : perte Reality Labs de 19,19 Md$ sur l'année (> 70 Md$ cumulés) ; Zuckerberg annonce de « faire d'Horizon un succès massif sur mobile ». Arrêt de Horizon Workrooms (16/02) et des ventes Quest entreprise.
 - **20 févr. 2026** — Séparation officielle Meta Quest / Horizon Worlds ; Samantha Ryan, VP contenu Reality Labs : Horizon devient « almost exclusively mobile ».
-- **17-18 mars 2026** — Annonce du retrait de l'app VR (fin au 15/06), suivie le lendemain d'une rétractation publique de Bosworth : mode maintenance, développement VR arrêté.
+- **17-18 mars 2026** — Annonce du retrait de l'app VR (fin au 15/06), suivie le lendemain de la rétractation publique de Bosworth (18/03, confirmée par Meta le 19/03) : mode maintenance, développement VR arrêté.
 - **15 juin 2026** — Arrêt effectif de la création et publication en VR. Horizon Worlds survit en application mobile (45 M de téléchargements cumulés — mais ~1,1 M$ de dépenses cumulées des consommateurs seulement, estimation T4 : l'audience mobile sans la dépense).
 
 Lecture : le plus grand investisseur mondial dans le casque VR a conclu que la croissance sociale du métavers passait par le téléphone. Le signal n'est pas marginal : il est venu de l'acteur qui avait le plus à perdre à l'admettre.

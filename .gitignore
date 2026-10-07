@@ -1,3 +1,6 @@
 # Logs d'authentification (contient des jetons)
 ghauth.log
 *.log
+
+# Environnement Python local (génération PDF)
+.venv/
